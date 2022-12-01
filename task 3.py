@@ -9,7 +9,7 @@ os.system('cls')
 print('Задача № 3')
 
 # lst = [1.1, 1.2, 3.1, 5, 10.01]
-# new_lst = [round(i%1,2) for i in lst]
+# new_lst = [round(i % 1,2) for i in lst]
 # print(lst, '=>', max(new_lst) - min(new_lst)) - Простой вариант решения
 
 from random import uniform
